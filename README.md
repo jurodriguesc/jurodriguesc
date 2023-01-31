@@ -8,7 +8,7 @@
 - ♈ Meu nome é Juliana, tenho 25 anos e sou de São Paulo - SP.
 - 🎓 Graduada em Farmácia-Bioquímica pela Universidade de São Paulo (USP).
 - 😍 Apaixonada por séries, filmes, astrologia, música e Beyoncé. 
-- 🌱 Estudando Python e SQL.
+- 🌱 Estudando Python e SQL na Alura através do Programa Desenvolve 2023 (Grupo Boticário).
 - 🧠 Me especializando em dados e criando uns dashboards, com SQL, Excel e Power BI.
 
 ## Estou aprendendo
