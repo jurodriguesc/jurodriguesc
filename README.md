@@ -19,6 +19,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="80" height="80"/>
 
+<br/>
+<br/>
 
 <div>
 	<a href="https://github.com/jurodriguesc">
@@ -28,5 +30,7 @@
 	  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurodriguesc&theme=dracula&layout=compact" />
 	</a>
 </div>
+
+</br>
             
           
