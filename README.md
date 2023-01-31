@@ -15,11 +15,14 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="80" height="80"/>
 
-<div>
-<a href="https://github.com/jurodriguesc">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurodriguesc&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jurodriguesc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
+<div>
+	<a href="https://github.com/jurodriguesc">
+	  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianarodriguesc&count_private=true&show_icons=true&theme=dracula" />
+	</a>
+	<a href="https://github.com/jurodriguesc">
+	  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurodriguesc&theme=dracula&layout=compact" />
+	</a>
+</div>
             
           
