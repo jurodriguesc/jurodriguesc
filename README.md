@@ -29,6 +29,7 @@
 	<a href="https://github.com/jurodriguesc">
 	  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurodriguesc&theme=dracula&layout=compact" />
 	</a>
+
 </div>
 
 </br>
