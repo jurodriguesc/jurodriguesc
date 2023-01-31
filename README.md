@@ -5,11 +5,11 @@
 <a href = "mailto:juliana.rodrigues.conceicao@alumni.usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-♈ Meu nome é Juliana, tenho 25 anos e sou de São Paulo - SP.
-🎓 Graduada em Farmácia-Bioquímica pela Universidade de São Paulo - SP.
-😍 Apaixonada por séries, filmes, astrologia, música e Beyoncé. 
-🌱 Estudando Python e SQL.
-🧠 Me especializando em dados e criando uns dashboards, com SQL, Excel e Power BI.
+- ♈ Meu nome é Juliana, tenho 25 anos e sou de São Paulo - SP.
+- 🎓 Graduada em Farmácia-Bioquímica pela Universidade de São Paulo - SP.
+- 😍 Apaixonada por séries, filmes, astrologia, música e Beyoncé. 
+- 🌱 Estudando Python e SQL.
+- 🧠 Me especializando em dados e criando uns dashboards, com SQL, Excel e Power BI.
 
 ## Estou aprendendo
 
