@@ -6,7 +6,6 @@
 </div>
 
 <br/>
-<br/>
 
 - ♈ Meu nome é Juliana, tenho 25 anos e sou de São Paulo - SP.
 - 🎓 Graduada em Farmácia-Bioquímica pela Universidade de São Paulo (USP).
