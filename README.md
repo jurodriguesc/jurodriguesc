@@ -7,11 +7,12 @@
 
 <br/>
 
-- ♈ Meu nome é Juliana, tenho 25 anos e sou de São Paulo - SP.
+- ♈ Meu nome é Juliana, tenho 26 anos e sou de São Paulo - SP.
+- 🏢 Trabalho como analista de Business Intelligence na IQVIA.
 - 🎓 Graduada em Farmácia-Bioquímica pela Universidade de São Paulo (USP).
 - 😍 Apaixonada por séries, filmes, astrologia, música e Beyoncé. 
 - 🌱 Estudando Python e SQL na Alura através do Programa Desenvolve 2023 (Grupo Boticário).
-- 🧠 Me especializando em dados e criando dashboards com SQL, Excel e Power BI.
+- 🧠 Me especializando em dados e criando dashboards com SQL, Excel, Power BI e Tableau.
 
 </br>
 
