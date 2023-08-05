@@ -12,8 +12,8 @@
 - 🏢 Trabalho como analista de Business Intelligence na IQVIA.
 - 🎓 Graduada em Farmácia-Bioquímica pela Universidade de São Paulo (USP).
 - 😍 Apaixonada por séries, filmes, astrologia, música e Beyoncé. 
-- 🌱 Estudando Python e SQL na Alura através do Programa Desenvolve 2023 (Grupo Boticário).
-- 🧠 Me especializando em dados e criando dashboards com SQL, Excel, Power BI e Tableau.
+- 🌱 Fiz parte do Programa Desenvolve 2023 (Grupo Boticário) e estudei lógica de programação, Python, SQL, Spark e modelagem de banco de dados.
+- 🧠 Estou me especializando em dados e criando dashboards com Power BI e Tableau.
 
 </br>
 
